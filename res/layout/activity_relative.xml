@@ -17,7 +17,7 @@
         android:layout_height="wrap_content"
         android:layout_alignLeft="@id/tvi"
         android:layout_below="@id/tvi"
-        android:inputType="textCapWords"/>
+        android:inputType="text"/>
 
     <Button
         android:id="@+id/butCancel"
