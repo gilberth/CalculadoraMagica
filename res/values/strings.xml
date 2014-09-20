@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Calculadora Magica</string>
+    <string name="hello_world">Hola Mundo</string>
+    <string name="but1">But1</string>
+    <string name="butOk">OK</string>
+    <string name="butcancel">Cancel</string>
+    <string name="textv">Teclee acá:</string>
+
+</resources>
