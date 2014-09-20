@@ -17,21 +17,25 @@ public final class R {
         public static final int ic_launcher=0x7f020000;
     }
     public static final class id {
-        public static final int but7=0x7f070000;
-        public static final int but8=0x7f070001;
-        public static final int but9=0x7f070002;
-        public static final int butCancel=0x7f070007;
-        public static final int butMas=0x7f070003;
-        public static final int butOk=0x7f070008;
-        public static final int ete=0x7f070006;
-        public static final int eteNumeros=0x7f070004;
-        public static final int tvi=0x7f070005;
+        public static final int but7=0x7f070001;
+        public static final int but8=0x7f070002;
+        public static final int but9=0x7f070003;
+        public static final int butCancel=0x7f070008;
+        public static final int butMas=0x7f070004;
+        public static final int butOk=0x7f070009;
+        public static final int ete=0x7f070007;
+        public static final int eteNumeros=0x7f070005;
+        public static final int spiAlumnos=0x7f070000;
+        public static final int tvi=0x7f070006;
+        public static final int tviCodigoAlumno=0x7f07000a;
+        public static final int tviNombreAlumno=0x7f07000b;
     }
     public static final class layout {
         public static final int activity_linear=0x7f030000;
         public static final int activity_listado_spinner=0x7f030001;
         public static final int activity_main=0x7f030002;
         public static final int activity_relative=0x7f030003;
+        public static final int item_listado_alumnos=0x7f030004;
     }
     public static final class string {
         public static final int app_name=0x7f040000;
